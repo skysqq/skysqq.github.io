@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: Sky的博客 | BY Blog
+title: SU Blog
+SEOTitle: SU 的博客 | SU Blog
 header-img: img/post-bg-desk.jpg
-email: 1918476034@qq.com
+email: skyunique@163.com
 description: "Life's simple. You make choice and don't look back.人生其实很简单：做出选择，不要后悔."
-keyword: "BY, BY Blog"
-url: "http://skysqq.github.io"          # your host, for absolute URL
+keyword: "SU, SU Blog"
+url: "http://skyunique.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/skysqq/skysqq.github.io" # you code repository
+github_repo: "https://github.com/skyunique/skyunique.github.io" # you code repository
 
 # Sidebar settings
 sidebar: false                          # whether or not using Sidebar.
