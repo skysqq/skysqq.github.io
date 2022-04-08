@@ -62,7 +62,7 @@ export PATH
 source /etc/profiles
 ```
 
-![image-20210820162444918](https://gitee.com/skyunique7/upload-pic/raw/master/img/20210820162444.png)		
+![image-20210820162444918](https://cdn.jsdelivr.net/gh/skyunique/uploadPic/img/20220408142723.png)		
 
 ### 4.安装RabbitMQ
 
