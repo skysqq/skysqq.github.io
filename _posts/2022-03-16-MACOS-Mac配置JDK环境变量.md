@@ -9,7 +9,14 @@ catalog: 	 true
 tags:
     - MACOS
     - CENTOS7
+
 ---
+
+# 前言
+
+​				MAC配置多版本的jdk，用于多项目环境切换使用
+
+# 正文
 
 
 ```

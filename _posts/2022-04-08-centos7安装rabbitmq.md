@@ -11,6 +11,8 @@ tags:
     - CENTOS7
 ---
 
+# 正文
+
 ## centos7安装rabbitmq
 
 ### 1. 安装依赖文件
