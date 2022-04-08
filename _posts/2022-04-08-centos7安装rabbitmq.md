@@ -134,7 +134,7 @@ cd /usr/local/rabbitmq-3.9.4/sbin
 
 ```
 
-![image-20210823104739042](https://cdn.jsdelivr.net/gh/skyunique/uploadPic/img/20220408141139.png)
+![image-20210823104739042](https://cdn.jsdelivr.net/gh/skyunique/uploadPic/img/20220408140143.png)
 
 > 登录  [http://服务器IP地址:15672/](http://xn--ip-fr5c86lw2a0cw16k:15672/)
 
