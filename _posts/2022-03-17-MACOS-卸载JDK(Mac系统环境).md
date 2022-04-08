@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      卸载JDK（Mac系统环境）
+subtitle:   卸载JDK（Mac系统环境）
+date:       2022-03-17
+author:     skyunique
+header-img: img/post-bg-os-metro.jpg
+catalog: 	 true
+tags:
+    - MACOS
+    - CENTOS7
+---
+
+
 卸载JDK（Mac系统环境）
 
 ```

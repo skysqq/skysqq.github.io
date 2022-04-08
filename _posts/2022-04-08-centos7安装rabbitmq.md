@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      centos7安装rabbitmq
+subtitle:   centos7安装rabbitmq
+date:       2022-03-17
+author:     skyunique
+header-img: img/post-bg-os-metro.jpg
+catalog: 	 true
+tags:
+    - MACOS
+    - CENTOS7
+---
+
 ## centos7安装rabbitmq
 
 ### 1. 安装依赖文件
