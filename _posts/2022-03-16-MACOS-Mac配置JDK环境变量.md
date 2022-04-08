@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      Mac配置JDK环境变量
+subtitle:   JDK配置详解
+date:       2022-03-16
+author:     skyunique
+header-img: img/post-bg-os-metro.jpg
+catalog: 	 true
+tags:
+    - MACOS
+    - CENTOS7
+---
+
+
 ```
 export JAVA_7_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home
 
