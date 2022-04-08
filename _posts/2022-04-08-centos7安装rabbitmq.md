@@ -11,7 +11,7 @@
 
 ​	本次示例版本采用是如下图
 
-​		![image-20210823092538512](https://gitee.com/skyunique7/upload-pic/raw/master/img/20210823092538.png)
+​		![image-20210823092538512](https://cdn.jsdelivr.net/gh/skyunique/uploadPic/img/20220408140115.png)
 
 ### 3.安装 erlang
 
@@ -32,7 +32,7 @@ make && make install
 #./configure --prefix=/usr/local/erlang --with-ssl -enable-threads -enable-smmp-support -enable-kernel-poll --enable-hipe --without-javac
 ```
 
-> ​	注意以下问题：![image-20210820155907653](https://gitee.com/skyunique7/upload-pic/raw/master/img/20210820155914.png)
+> ​	注意以下问题：![image-20210820155907653](https://cdn.jsdelivr.net/gh/skyunique/uploadPic/img/20220408140125.png)
 
 ```
 sudo yum install ncurses-devel.x86_64
@@ -46,7 +46,7 @@ cd /usr/local/erlang
 --输入 halt(). 退出控制台
 ```
 
-![image-20210820162116749](https://gitee.com/skyunique7/upload-pic/raw/master/img/20210820162116.png)
+![image-20210820162116749](https://cdn.jsdelivr.net/gh/skyunique/uploadPic/img/20220408140135.png)
 
 > ​     配置环境变量
 
@@ -86,7 +86,7 @@ cd ./rabbitmq-3.6.1/sbin/
 ./rabbitmq-plugins enable rabbitmq_management
 ```
 
-![image-20210823092227787](https://gitee.com/skyunique7/upload-pic/raw/master/img/20210823092239.png)
+![image-20210823092227787](https://cdn.jsdelivr.net/gh/skyunique/uploadPic/img/20220408140143.png)
 
 > 启动
 
@@ -138,5 +138,5 @@ cd /usr/local/rabbitmq-3.9.4/sbin
 
 > 登录  [http://服务器IP地址:15672/](http://xn--ip-fr5c86lw2a0cw16k:15672/)
 
-![image-20210823104833326](https://gitee.com/skyunique7/upload-pic/raw/master/img/20210823104833.png)
+![image-20210823104833326](https://cdn.jsdelivr.net/gh/skyunique/uploadPic/img/20220408140152.png)
 
