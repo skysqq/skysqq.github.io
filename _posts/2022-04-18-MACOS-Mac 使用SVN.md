@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      Mac 使用SVN
@@ -10,16 +9,15 @@ catalog:    true
 tags:
     - MACOS
     - SVN
-
 ---
 
 
 # 前言
 
-> Mac 使用SVN
+##  Mac 使用SVN
 
 # 正文
-
+    > Mac 使用SVN
 - 初始化本地项目到SVN 
 
   ```
